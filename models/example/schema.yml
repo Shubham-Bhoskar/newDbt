@@ -1,0 +1,7 @@
+version: 1
+
+sources:
+  - name: fmmaindb
+
+    tables:
+      - name: user

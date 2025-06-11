@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "dv317.us1.dbt.com"
+  active-project: "70471823477055"
+projects:
+  - project-name: "Freshmenu Analysis"
+    project-id: "70471823477055"
+    account-name: "Freshmenu"
+    account-id: "70471823468191"
+    account-host: "dv317.us1.dbt.com"
+    token-name: "cloud-cli-275b"
+    token-value: "dbtu_J-NFYL8ALqQbbcQxAF_B2OY4bRwDmsnsWpQldsTF1nN0IbevFY"
+
+
