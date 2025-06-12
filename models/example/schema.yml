@@ -1,7 +1,9 @@
-version: 1
+version: 2
 
 sources:
   - name: fmmaindb
-
+    database: fmmaindb
+    schema: fmmaindb
     tables:
       - name: user
+
